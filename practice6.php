@@ -10,3 +10,7 @@ Modelから取得したデータを基にViewと連携してユーザーのブ�
 厳密にはRoutingは来たアクセスをControllerの中のActionに渡している。
 
 4.【応用】 artisanを使って、Admin/ProfileControllerを作成しましょう。
+→　ProfileController.php　参照
+
+5.【応用】 Admin/ProfileControllerに、以下のadd, create, edit, update それぞれのActionを追加してみましょう。
+→　ProfileController.php　参照
